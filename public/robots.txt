@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://horse-whisperer.zappy5.app/sitemap.xml
+Sitemap: https://horse-whisperer-1.zappy5.app/sitemap.xml
